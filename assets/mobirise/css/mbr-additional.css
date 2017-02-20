@@ -162,6 +162,14 @@
   font-size: 30px;
 }
 
+#menu-j .navbar-toggler {
+  color: #000;
+}
+#menu-j .navbar-brand {
+  font-size: 21px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 
 
