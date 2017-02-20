@@ -1310,7 +1310,7 @@
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "title": "<b>Сбалансированное образование</b>",
