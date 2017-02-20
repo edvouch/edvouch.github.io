@@ -1,0 +1,186 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#header1-2 SPAN {
+  color: #3e4346;
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-2 P {
+  font-size: 30px;
+  color: #214260;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-2 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-17 H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+#features1-13 H4 {
+  font-family: 'Open Sans', sans-serif;
+}
+#slider-r H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+  color: #3e4346;
+}
+#slider-r P {
+  font-family: 'Open Sans', sans-serif;
+}
+#slider-r .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box3-18 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-18 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-18 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+}
+#msg-box3-18 small {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+#msg-box3-18 .lead P {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box3-18 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-16 H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+#msg-box1-16 B {
+  text-align: center;
+  color: #3e4346;
+}
+#msg-box1-16 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-16 P {
+  font-size: 30px;
+}
+#features1-n H4 {
+  color: #214260;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+#msg-box1-o H2 {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color: #3e4346;
+}
+#msg-box1-o .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-s H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: #3e4346;
+}
+#features1-3 H4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #3e4346;
+}
+#msg-box1-v H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color: #3e4346;
+}
+#msg-box1-v .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-j .navbar-toggler {
+  color: #000;
+}
+#menu-j .navbar-brand {
+  font-size: 21px;
+  font-family: 'Open Sans', sans-serif;
+}
+#testimonials1-x .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color: #3e4346;
+}
+#testimonials1-x .card-block I {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
+}
+#testimonials1-x .card-footer > div {
+  color: #3e4346;
+}
+#testimonials1-x .card-footer > small {
+  color: #3e4346;
+}
+#form1-y .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+  color: #3e4346;
+}
+#form1-y .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#form2-1a .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+}
+
+
+
+
+#menu-10 .navbar-toggler {
+  color: #000;
+}
+#menu-10 .navbar-brand {
+  font-size: 24px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#header1-12 H1 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 46px;
+}
+#header1-12 B {
+  text-align: right;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#form1-11 .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
