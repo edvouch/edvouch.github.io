@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Эдвауч",
-    "currentPage": "Contacts.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,14 +12,17 @@
     "versionPublish": "3.10.4",
     "favicon": "@PROJECT_PATH@/assets/images/edvouch-128x96-93.png",
     "noImageResize": "",
-    "google-analytics": "",
-    "snow": ""
+    "google-analytics": "UA-93158588-1",
+    "snow": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Главная",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
