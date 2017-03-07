@@ -361,7 +361,7 @@
           "title": "Проект \"Эдвауч\"<br>",
           "meta": "Первый сервис персонального сопровождения по выбору &nbsp;дополнительного образования и освоению новых навыков",
           "text": "<br><p>Мы помогаем в создании индивидуальной траектории образования и получении  сбалансированного обучения на протяжении жизни для достижения задач карьерного и личного развития в зависимости от имеющегося уровня, возможностей, интересов, потребностей.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Записаться на бесплатный аудит навыков</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#form1-y\" data-toolbar=\"-mbrBtnMove\">Записаться на бесплатный аудит навыков</a>"
         },
         {
           "alias": "purity/components",
